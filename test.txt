@@ -1,5 +1,0 @@
-new txt
-hi, world
-hello, world
-new z
-asa
